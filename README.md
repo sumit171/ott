@@ -8,5 +8,5 @@
     - Main Movie
         - Trailer in Background
         - Title and description
-        - Movie Suggestion
+        - Movie Suggestion.
             
